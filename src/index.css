@@ -19,3 +19,9 @@ font-size: 18px !important;
 .ant-menu-item{
   height: 50px !important;
 }
+
+.ant-menu-submenu-selected >.ant-menu-submenu-title{
+  font-weight: bold !important;
+  background-color: rgb(204, 236, 242) !important;
+  color: green !important;
+}
